@@ -1,0 +1,20 @@
+Persiapan:
+Gunakan sarung tangan untuk melindungi tangan dari pecahan kaca. 
+Siapkan alat: Fiber stripper, cleaver, fusion splicer, alkohol, tisu, protection sleeve, dan heater. 
+Pengupasan (Stripping):
+Kupas lapisan pelindung luar kabel (buffer tube) dengan fiber stripper untuk mengakses serat kaca (core). 
+Kupas lapisan coating (lapisan tipis pelindung core) dengan hati-hati agar core tidak terputus, biasanya dengan stripper lubang kecil. 
+Pembersihan (Cleaning):
+Bersihkan core serat yang sudah terbuka dengan tisu yang dibasahi alkohol (90%) untuk menghilangkan debu atau kontaminasi. 
+Pemotongan (Cleaving):
+Potong ujung core serat dengan fiber cleaver untuk mendapatkan permukaan yang rata dan tegak lurus sempurna. 
+Penyelarasan & Penggabungan (Splicing):
+Pasang protection sleeve pada salah satu kabel sebelum disambung. 
+Masukkan kedua ujung core ke dalam fusion splicer dan kunci. 
+Sejajarkan core secara otomatis oleh mesin atau manual hingga posisinya tepat di tengah elektroda. 
+Tekan tombol auto untuk memulai proses fusi (peleburan/pengelasan) kedua ujung serat. 
+Proteksi (Protection):
+Pindahkan protection sleeve ke atas area sambungan fusi.
+Panaskan sleeve menggunakan heater bawaan splicer hingga menyusut dan melindungi sambungan. 
+Pengujian (Testing):
+Gunakan Optical Time Domain Reflectometer (OTDR) atau Optical Power Meter untuk mengukur redaman (loss) sambungan. Redaman yang baik biasanya < 0.03 dB. 
